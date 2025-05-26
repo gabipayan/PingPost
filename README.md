@@ -41,7 +41,7 @@ git clone
 npm install
 ```
 
-# Usage
+**Usage**
 
 * Open your TERMINAL to start running the app:
 
@@ -51,7 +51,8 @@ npm run dev
 
 ---
 
-##❓Questions
+##❓**Questions**
+
 For any questions, please contact me using the information below:
 - GitHub: [gabipayan](https://github.com/gabipayan)
 - Email: [gapayan26@gmail.com](gapayan26@gmail.com)
