@@ -282,3 +282,33 @@ You are required to submit BOTH of the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+# 📱 PingPost
+
+This is a backend RESTful API for a social network web application, built with **Express.js**, **MongoDB**, and **Mongoose**. It allows users to create profiles, share thoughts, react to others' thoughts, and manage a friend list.
+
+## 📽️ Walkthrough Video
+
+📺 [Click here to watch the demo video](VIDEO_LINK)
+
+---
+
+## 📦 Technologies Used
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JavaScript (ES6)
+- Insomnia (for testing)
+
+---
+
+## ⚙️ How to Use
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/gabipayan/PingPost
+cd PingPost
