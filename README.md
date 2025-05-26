@@ -3,6 +3,7 @@
 ## Description
 
 This is a backend RESTful API for a social network web application, built with **Express.js**, **MongoDB**, and **Mongoose**. It allows users to create profiles, share thoughts, react to others' thoughts, and manage a friend list.
+![PingPost => Insomnia](https://github.com/user-attachments/assets/ff11231d-f419-4b9c-91ea-5be2fe2e93a2)
 
 ## 📽️ Walkthrough Video
 
